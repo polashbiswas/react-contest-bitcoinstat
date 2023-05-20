@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-contest-bitcoinstat/static/css/main.dcbda1ca.css",
+    "main.js": "/react-contest-bitcoinstat/static/js/main.e4c4335d.js",
+    "static/js/787.c5343d45.chunk.js": "/react-contest-bitcoinstat/static/js/787.c5343d45.chunk.js",
+    "index.html": "/react-contest-bitcoinstat/index.html",
+    "main.dcbda1ca.css.map": "/react-contest-bitcoinstat/static/css/main.dcbda1ca.css.map",
+    "main.e4c4335d.js.map": "/react-contest-bitcoinstat/static/js/main.e4c4335d.js.map",
+    "787.c5343d45.chunk.js.map": "/react-contest-bitcoinstat/static/js/787.c5343d45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcbda1ca.css",
+    "static/js/main.e4c4335d.js"
+  ]
+}
